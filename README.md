@@ -85,6 +85,7 @@ Languages supported out-of-the-box:
 - German
 - Chinese (中文)
 - Portuguese (Brazil) (Português - Brasil)
+- Czech
 
 PR's welcome for additional languages.
 
